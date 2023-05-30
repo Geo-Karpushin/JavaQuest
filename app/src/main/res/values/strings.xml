@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quest</string>
+    <string name="K">Карьера:</string>
+    <string name="C">Деньги:</string>
+    <string name="Rz">Репутация в законе:</string>
+    <string name="Rn">Репутация в мафии:</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+</resources>
